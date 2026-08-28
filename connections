@@ -1,0 +1,1 @@
+postgresql://tsdbadmin:itgfdxxd1hfi3wol@bxq72lbjl3.uf9r2x5q3g.db.ghost.build:5432/tsdb?sslmode=require
